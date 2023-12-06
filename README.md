@@ -1,4 +1,6 @@
-# :sunny: team project : nunettine
+# :sunny: team nunettine
+
+### PROJECT
 
 ### Nutti - Exchange diary made of react : 리액트를 이용한 교환일기 앱 구현
 
@@ -7,6 +9,25 @@
 > google-sheet site: [click🌐](https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing)<br>
 
 # :boom: Project Timeline
+
+## 231206
+
+#### 디렉토리 구조 설계
+
+- 워크플로우 기준으로 작성
+- 1차적 가장중요한 부분만 디렉토리 설계
+- 컴포넌트 별로 조립
+- 메인기능 -> 서브기능 순으로 구조설계
+
+#### font 선정
+
+- 선정 fonts
+
+1. [온글잎 의연체](https://noonnu.cc/font_page/667)
+2. [봉숭아틴트](https://noonnu.cc/font_page/259)
+3. [하늘보리체](https://noonnu.cc/font_page/1243)
+
+#### 랜덤 프로필 & 다이어리 일러스트 작업
 
 ## 231205
 
