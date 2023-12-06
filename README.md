@@ -1,8 +1,6 @@
 # :sunny: team nunettine
 
-### PROJECT
-
-### Nutti - Exchange diary made of react : 리액트를 이용한 교환일기 앱 구현
+### [PROJECT] Nutti - Exchange diary made of react : 리액트를 이용한 교환일기 앱 구현
 
 > git hub site: [click🌐]<br>
 > notion site: [click🌐](https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4)<br>
