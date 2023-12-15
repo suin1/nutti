@@ -1,10 +1,17 @@
-import React from 'react';
+import { Link } from "react-router-dom";
+import monthlyStyle from "./months.module.css";
 
-const MonthItem = () => {
+const MonthItem = ({ monthlyDiary, onSelect }) => {
   return (
-    <div>
-      <p>월별 다이어리 리스트 아이템</p>
-    </div>
+    <ul className={monthlyStyle.monthlyList}>
+      {monthlyDiary.map((diary) => (
+        <li key={diary.월}>
+          <Link to={`/diary/${diary.월}`} onClick={() => onSelect(diary.월)}>
+            {diary.월}
+          </Link>
+        </li>
+      ))}
+    </ul>
   );
 };
 
