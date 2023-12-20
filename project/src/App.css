@@ -1,12 +1,18 @@
-.borderTop {
-  border-top: 1px solid #000;
-  margin: 10px 0;
-  padding: 10px 0;
+a {
+  text-decoration: none;
+  color: inherit;
 }
-
-.margin-10 {
-  margin: 10px;
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
-.padding-10 {
-  padding: 10px;
+.inputBtn {
+  border: none;
+  background-color: var(--layout-color2);
+  padding: 7px 10px;
+  margin-left: 10px;
+  color: var(--main-font-color);
 }

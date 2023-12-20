@@ -1,9 +1,18 @@
-import React from 'react';
+import { Link, useNavigate, useParams } from "react-router-dom";
+import monthlyStyle from "./months.module.css";
 
 const MonthList = () => {
+  // const navigate = useNavigate();
+  // const goDaily = () => navigate("/DailyList");
+
+  const { monthParam } = useParams();
+
   return (
-    <div>
-      <p>월별 다이어리 리스트</p>
+    <div className={monthlyStyle.monthlyWrap}>
+      <h2>{monthParam} 일기 목록</h2>
+      <Link className="addBtn" to="/dailyList">
+        추가
+      </Link>
     </div>
   );
 };
