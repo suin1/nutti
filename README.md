@@ -67,18 +67,20 @@
 ## 5. 각 담당 업무
 
 **1. 역할 분담**
-|역할|이름|담당|
-|::|::|::|
-|리더|한재영|작업 기록|
-|팀원|김신영|일러스트 작업|
-|팀원|허수인|발표|
+
+| 역할 |  이름  |     담당      |
+| :--: | :----: | :-----------: |
+| 리더 | 한재영 |   작업 기록   |
+| 팀원 | 김신영 | 일러스트 작업 |
+| 팀원 | 허수인 |     발표      |
 
 **2. 작업 분담**
-|이름|담당 작업 파트|
-|::|::|
-|한재영| Month / DailyDiary|
-|김신영| Postiong / viewPost|
-|허수인| Home / Loading / Join|
+
+|  이름  |    담당 작업 파트     |
+| :----: | :-------------------: |
+| 한재영 |  Month / DailyDiary   |
+| 김신영 |  Postiong / viewPost  |
+| 허수인 | Home / Loading / Join |
 
 ## 6. 프로젝트 내용
 
@@ -137,18 +139,18 @@
 **3. 일기장/프로필 캐릭터 일러스트**
 
 - 일기장
-  <img src="./작업자료/images/readme_07.JPG">
+
+<img src="./작업자료/images/readme_07.JPG">
 
 - 프로필 캐릭터(총 19마리 동물 프로필)
-  <img src="./작업자료/images/readme_08.JPG">
+
+<img src="./작업자료/images/readme_08.JPG">
 
 ### 앱 구현 및 주요 기능
 
 <img src="./작업자료/images/readme_09-1.JPG">
 <img src="./작업자료/images/readme_09-2.JPG">
 <img src="./작업자료/images/readme_09-3.JPG">
-
----
 
 ### 작업 시 문제 및 해결 방법
 
