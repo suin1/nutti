@@ -1,10 +1,30 @@
 # :sunny: Team Nunettine
 
-### [PROJECT] Nutti - Exchange diary made of react : 리액트를 이용한 교환일기 앱 구현
+### [PROJECT] Nutti - Exchange diary made of react : <br/>리액트를 이용한 ~~교환일기 앱~~ 일기장 앱 구현
 
-> git hub site: [click🌐]<br>
+> Project site: [click🌐](https://port-0-nutti-9zxht12blqemz5ik.sel4.cloudtype.app/)<br>
 > notion site: [click🌐](https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4)<br>
 > google-sheet site: [click🌐](https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing)<br>
+
+#### 1. 프로젝트 개요
+
+- 계획 수립 및 설계
+  : 장소에 상관없이 어디서나 모바일로 쉽게 일상을 기록할 수 있는 일기장 구현.
+- 프로젝트 선정 이유
+  1. 언제 어디서나 쉽게 일상을 기록하고 보관할 수 있는 일기장.
+  2. 나만의 기록하고 싶은 주제별 일기장을 생성하여 일기를 작성.
+
+#### 2. 기획 의도 & 목표
+
+#### 3. 작업순서
+
+#### 4. 사용 기술
+
+#### 5. 각 담당 업무
+
+#### 6. 프로젝트 내용
+
+#### 7. 프로젝트 완료 리뷰
 
 # :boom: Project Timeline
 
