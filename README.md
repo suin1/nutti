@@ -6,7 +6,7 @@
 > notion site: [click🌐](https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4)<br>
 > google-sheet site: [click🌐](https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing)<br>
 
-### 1. 프로젝트 개요
+## 1. 프로젝트 개요
 
 #### 계획 수립 및 설계
 
@@ -18,7 +18,7 @@
 - 언제 어디서나 쉽게 일상을 기록하고 보관할 수 있는 일기장.
 - 나만의 기록하고 싶은 주제별 일기장을 생성하여 일기를 작성.
 
-### 2. 기획 의도 & 목표
+## 2. 기획 의도 & 목표
 
 #### 목표
 
@@ -27,7 +27,7 @@
 - 백앤드를 이용한 회원가입, 로그인 기능 완성.
 - 프로젝트와 더불어 팀원들의 지속 가능한 동기부여로 성공 가능성을 높임.
 
-### 3. 작업순서
+## 3. 작업순서
 
 1. 프로젝트 선정
 2. 요구사항 분석 및 공통 가이드라인 작성
@@ -37,7 +37,7 @@
 6. 데이터 베이스 수정 및 오류 수정 작업
 7. 배포 후 발표 & 보고서 작성
 
-### 4. 사용 기술
+## 4. 사용 기술
 
 #### 개발 환경
 
@@ -64,7 +64,7 @@
 - Procreate
 - Notion
 
-### 5. 각 담당 업무
+## 5. 각 담당 업무
 
 1. 역할 분담
 
@@ -78,7 +78,7 @@
 - 김신영: Postiong / viewPost
 - 허수인: Home / Loading / Join
 
-### 6. 프로젝트 내용
+## 6. 프로젝트 내용
 
 #### 사용자 시나리오
 
